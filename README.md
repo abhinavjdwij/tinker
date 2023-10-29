@@ -1,2 +1,2 @@
 # tinker
-Repository of scripts written while learning / tinkering.
+Repository of scripts written while learning / tinkering
