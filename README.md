@@ -1,2 +1,2 @@
-# tinkering-lab-archives
-Repository of old scripts written while learning / tinkering.
+# tinker
+Repository of scripts written while learning / tinkering.
